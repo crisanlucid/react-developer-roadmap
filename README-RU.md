@@ -1,10 +1,16 @@
 # План становления React-разработчиком
 
-[README in English](README.md)
-
 [README in Chinese](README-CN.md)
 
-> План, чтобы стать React-разработчиком в 2018 году:
+[README in English](README.md)
+
+[README in Japanese](README-JA.md)
+
+[README in Portuguese (Brazil)](README-PTBR.md)
+
+[README in Spanish](README-ES.md)
+
+> План, чтобы стать React-разработчиком в 2019 году:
 
 Ниже вы можете найти схему, показывающую пути, которые могут привести, а также библиотеки, которые вам нужно изучить, чтобы стать разработчиком React. Я сделал эту схему в качестве подсказки для всех, кто спрашивает меня: «Что мне стоит изучить ещё в качестве React-разработчика?»
 

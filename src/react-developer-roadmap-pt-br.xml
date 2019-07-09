@@ -3,22 +3,22 @@
   <root>
     <mxCell id="0"/>
     <mxCell id="1" parent="0"/>
-    <mxCell id="4" value="React Developer in 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=16;fontStyle=0" parent="1" vertex="1">
+    <mxCell id="4" value="Desenvolvedor React em 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=16;fontStyle=0" parent="1" vertex="1">
       <mxGeometry x="273.5" y="30" width="280" height="30" as="geometry"/>
     </mxCell>
-    <mxCell id="5" value="Legends" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+    <mxCell id="5" value="Legendas" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
       <mxGeometry x="720" y="40" width="80" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="7" value="Personal must know" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="7" value="Deve saber" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="680" y="70" width="120" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="9" value="Good to know" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
+    <mxCell id="9" value="Bom saber" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
       <mxGeometry x="680" y="100" width="120" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="10" value="Possibilities" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#CCCCCC;" parent="1" vertex="1">
+    <mxCell id="10" value="Opcional" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="680" y="130" width="120" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="12" value="Learn the Basics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=10;fontStyle=0" parent="1" vertex="1">
+    <mxCell id="12" value="Aprenda o básico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=10;fontStyle=0" parent="1" vertex="1">
       <mxGeometry x="250" y="115" width="280" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="15" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endFill=0;" parent="1" source="12" target="17" edge="1">
@@ -46,16 +46,16 @@
     <mxCell id="18" value="CSS" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="348.5" y="215" width="130" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="20" value="JS Basics" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="20" value="Javascript básico" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="348.5" y="240" width="130" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="22" value="Learn the basics of HTML" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="22" value="Aprenda o básico de HTML" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="20" y="145" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="23" value="Semantic HTML" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="23" value="Semântica HTML" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="20" y="158" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="24" value="Dividing page into sections and structuring the DOM properly" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="24" value="Divida a página em sections e estruture o DOM adequadamente" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="20" y="170" width="260" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="27" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.25;entryX=1;entryY=0.5;endFill=0;dashed=1;" parent="1" source="17" target="22" edge="1">
@@ -85,13 +85,13 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="31" value="Learn the basics of CSS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="31" value="Aprenda o básico de CSS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="540" y="185" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="32" value="Grid and Flexbox" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="32" value="Grids e Flexbox" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="540" y="197" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="33" value="Responsive Web Design and Media Queries" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="33" value="Design resposivo e Media Queries" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="540" y="210" width="260" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="34" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;exitX=1;exitY=0.25;entryX=0;entryY=0.5;endFill=0;dashed=1;" parent="1" source="18" target="31" edge="1">
@@ -121,10 +121,10 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="39" value="Syntax and basic operations" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="39" value="Sintaxe e operações básicas" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry y="220" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="40" value="DOM manipulation" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="40" value="Manipulação do DOM" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry y="233" width="260" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="41" value="Hoisting, Event Bubbling, Prototyping" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
@@ -133,7 +133,7 @@
     <mxCell id="42" value="AJAX (XHR)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry y="257" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="43" value="ECMA Script 6+, learn new features" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="43" value="Aprenda as novas features do ES6+" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry y="270" width="260" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="44" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.25;entryX=1;entryY=0.5;endFill=0;dashed=1;" parent="1" source="20" target="39" edge="1">
@@ -181,7 +181,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="49" value="jQuery (Optional)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
+    <mxCell id="49" value="jQuery (opcional)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
       <mxGeometry x="590" y="262" width="120" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="50" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=0;exitY=0.5;entryX=1;entryY=0.5;endFill=0;" parent="1" source="49" target="20" edge="1">
@@ -194,7 +194,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="51" value="General Development Skills" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="51" value="Conhecimentos de desenvolvimento em geral" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="393.5" y="380" width="170" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="52" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endFill=0;" parent="1" source="20" target="51" edge="1">
@@ -207,19 +207,19 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-52" value="GIT - Version Control (GitHub, Bitbucket, GitLab)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-52" value="GIT - Controle de versionamento (GitHub, Bitbucket, GitLab)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="30" y="350" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-53" value="HTTP/HTTPS protocol" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-53" value="Protocolo HTTP/HTTPS" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="30" y="365" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-54" value="Learn to search for solutions" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-54" value="Aprenda procurar por soluções" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="30" y="380" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-56" value="Data Structures and Algorithms" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-56" value="Estrutura de dados e Algoritmos" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="30" y="410" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-57" value="Design patterns" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-57" value="Design Patterns" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="30" y="425" width="260" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-59" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.25;entryX=1;entryY=0.5;endFill=0;dashed=1;" parent="1" source="51" target="15a4b3893f7299b4-52" edge="1">
@@ -290,7 +290,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-66" value="State Management" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-66" value="Gerenciamento de estado" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="200" y="707.6666666666665" width="110" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-68" value="Redux" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
@@ -329,7 +329,7 @@
     <mxCell id="15a4b3893f7299b4-82" value="Redux Phoenix" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="112.5" y="973.1666666666665" width="70" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-83" value="Package Managers" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-83" value="Gerenciadores de pacote" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="205" y="537.5" width="110" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-84" value="npm" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
@@ -341,16 +341,16 @@
     <mxCell id="15a4b3893f7299b4-86" value="pnpm" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="230" y="475" width="45" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-88" value="Build Tools" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-88" value="Ferramentas de build" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="270" y="597" width="80" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-91" value="gulp" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="45" y="680" width="65" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-92" value="Styling" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-92" value="Estilização" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="517.5" y="605" width="70" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-93" value="CSS Preprocessors" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-93" value="Pré-processadores CSS" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="615" y="530" width="110" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-94" value="npm scripts" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
@@ -368,7 +368,7 @@
     <mxCell id="15a4b3893f7299b4-100" value="Stylus" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="745" y="460" width="65" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-101" value="Task Runners" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-101" value="Executadores de tarefas" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="177.5" y="659" width="80" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-102" value="Webpack" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
@@ -380,7 +380,7 @@
     <mxCell id="15a4b3893f7299b4-104" value="Parcel" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="72.5" y="590" width="65" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-105" value="CSS Frameworks" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-105" value="Frameworks CSS" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
       <mxGeometry x="685" y="605" width="110" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-106" value="Bootstrap" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
@@ -395,19 +395,19 @@
     <mxCell id="15a4b3893f7299b4-109" value="Semantic UI" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="870" y="635" width="90" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-110" value="Testing" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-110" value="Testes" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="533" y="1335" width="70" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-111" value="API Clients" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="237.5" y="1144.3333333333333" width="70" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-114" value="Server Side Rendering" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-114" value="Renderização no servidor" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
       <mxGeometry x="207.5" y="1646.5" width="130" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-116" value="Type Checkers" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-116" value="Tipagem" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="622.5" y="955" width="130" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-117" value="CSS Architecture" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-117" value="Arquitetura CSS" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="665" y="727.5" width="130" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-118" value="CSS in JS" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
@@ -435,7 +435,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-121" value="Keep Learning :)" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;comic=0;fontFamily=Verdana;fontSize=14;labelBorderColor=none;glass=0;arcSize=50;perimeterSpacing=1;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-121" value="Continue aprendendo :)" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;comic=0;fontFamily=Verdana;fontSize=14;labelBorderColor=none;glass=0;arcSize=50;perimeterSpacing=1;" parent="1" vertex="1">
       <mxGeometry x="573" y="1900" width="147" height="28" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-124" value="BEM" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
@@ -471,7 +471,7 @@
     <mxCell id="15a4b3893f7299b4-135" value="Aphrodite" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="590" y="875" width="100" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-136" value="fetch (native)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-136" value="fetch (nativo)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="8" y="1213.8333333333333" width="65" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-137" value="SuperAgent" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
@@ -489,7 +489,7 @@
     <mxCell id="15a4b3893f7299b4-142" value="Flow" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
       <mxGeometry x="732.5" y="1035" width="65" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-144" value="Unit Testing" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-144" value="Teste unitário" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="665" y="1242" width="85" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-145" value="Jest" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
@@ -513,13 +513,13 @@
     <mxCell id="15a4b3893f7299b4-152" value="Tape" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="855" y="1336.5" width="65" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-153" value="Integration Testing" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-153" value="Teste de integração" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
       <mxGeometry x="677.5" y="1392" width="120" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-154" value="Karma" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
       <mxGeometry x="877.5" y="1434.5" width="65" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-155" value="E2E Testing" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-155" value="Teste end-to-end" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="502.5" y="1460" width="85" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-156" value="Cypress" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
@@ -537,7 +537,7 @@
     <mxCell id="15a4b3893f7299b4-160" value="After.js" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="35" y="1668.8333333333333" width="65" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="15a4b3893f7299b4-161" value="Backend Framework Integration" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#CCCCCC;" parent="1" vertex="1">
+    <mxCell id="15a4b3893f7299b4-161" value="Framework de integração com back-end" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="215" y="1720" width="130" height="30" as="geometry"/>
     </mxCell>
     <mxCell id="15a4b3893f7299b4-162" value="React on Rails" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
@@ -1289,7 +1289,7 @@
     <mxCell id="ac9188710934de2-55" value="adam-golab/react-developer-roadmap" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="40" y="42.5" width="260" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="ac9188710934de2-56" value="Terminal usage" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
+    <mxCell id="ac9188710934de2-56" value="Utilização de terminal" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" parent="1" vertex="1">
       <mxGeometry x="30" y="395" width="260" height="15" as="geometry"/>
     </mxCell>
     <mxCell id="ac9188710934de2-57" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.5;entryX=1;entryY=0.5;endFill=0;dashed=1;" parent="1" source="51" target="ac9188710934de2-56" edge="1">
@@ -1301,7 +1301,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="9221bb110d1119f-52" value="Utility Libraries" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="9221bb110d1119f-52" value="Bibliotecas úteis" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="152" y="1340.5" width="130" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="9221bb110d1119f-53" value="Lodash" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
@@ -1310,7 +1310,7 @@
     <mxCell id="9221bb110d1119f-54" value="Moment" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="23.5" y="1401.5" width="65" height="15" as="geometry"/>
     </mxCell>
-    <mxCell id="9221bb110d1119f-55" value="Routing" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+    <mxCell id="9221bb110d1119f-55" value="Rotas" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
       <mxGeometry x="586" y="1120" width="73" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="9221bb110d1119f-56" value="React-Router" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
@@ -1481,7 +1481,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="9221bb110d1119f-93" value="Virtual Reality" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#CCCCCC;" parent="1" vertex="1">
+    <mxCell id="9221bb110d1119f-93" value="Realidade virtual" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#CCCCCC;" parent="1" vertex="1">
       <mxGeometry x="539" y="1732.5" width="115" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="9221bb110d1119f-94" value="React 360" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
@@ -1802,7 +1802,7 @@
     <mxCell id="119" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=14;align=center;" parent="1" vertex="1">
       <mxGeometry x="457" y="1556.5" width="23" height="23" as="geometry"/>
     </mxCell>
-    <mxCell id="120" value="Static Site Generator" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
+    <mxCell id="120" value="Gerador de site estático" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
       <mxGeometry x="578.5" y="1562.5" width="130" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="122" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=0;exitY=0.5;endFill=0;" parent="1" source="120" target="119" edge="1">
